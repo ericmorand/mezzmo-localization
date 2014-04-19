@@ -1,0 +1,3 @@
+<project name="Properties" basedir=".">
+    <property name="mezzmo_location" value="/path/to/mezzmo/directory"/>
+</project>

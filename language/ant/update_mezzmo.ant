@@ -1,0 +1,12 @@
+<project name="Update Mezzmo" default="default" basedir=".">
+    <description>
+        Update Mezzmo with the updated language files
+    </description>
+    <import file="properties.ant"/>
+
+    <target name="default">
+        <copy todir="${mezzmo_location}/Language">
+            <fileset dir="../data"></fileset>
+        </copy>
+    </target>
+</project>

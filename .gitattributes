@@ -1,0 +1,6 @@
+* 	    text=auto
+# =============================================================
+# text files, should ALWAYS be checked out with LF line-endings
+# =============================================================
+.*	    eol=lf
+*.txt   eol=lf
