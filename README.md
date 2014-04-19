@@ -1,4 +1,4 @@
-mezzmo-fr
-=========
+Mezzmo localization
+===================
 
-French Mezzmo translation
+Project used to maintain Mezzmo localization.
